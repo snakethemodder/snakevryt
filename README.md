@@ -1,3 +1,3 @@
 - 👋 Hi, I’m snake
 - im a cool game modder that mods different games on anything
-- ⚡ Fun fact: I have a discord server: https://discord.gg/snakes-modding-server-1186456207091843183
+- ⚡ Fun fact: I have a discord server: https://discord.com/invite/snakes-mods
