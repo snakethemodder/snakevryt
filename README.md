@@ -4,5 +4,5 @@
 - ⚡ Fun fact: I have a discord server: https://discord.com/invite/snakes-mods
 <h2 align="center">Statistics 📊</h2>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=snakevryt&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=snakethemodder&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
 </p>
